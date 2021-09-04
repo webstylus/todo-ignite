@@ -1,7 +1,7 @@
 ## Desafio Ignite
 
 Uma simples lista de tarefas
-![alt text](https://github.com/webstylus/todo-ignite/tree/main/src/assets/src/assets/images/cover.png?raw=true)
+![alt text](https://github.com/webstylus/todo-ignite/blob/main/src/assets/images/cover.png?raw=true)
 
 Features
 
