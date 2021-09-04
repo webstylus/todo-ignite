@@ -11,8 +11,7 @@ export function TodoInput({addTask}: TodoInputProps) {
 
     function handleAddNewTask() {
         if (!task) {
-            Alert.alert('Campos obrigatório', 'Digite uma nova todo.')
-            return
+            return Alert.alert('Campos obrigatório', 'Digite uma nova todo.')
         }
         addTask(task)
         setTask('')

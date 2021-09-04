@@ -9,7 +9,6 @@ interface HeaderProps {
 }
 
 export function Header({ tasksCounter }: HeaderProps) {
-  //TODO render 'tarefa' if tasksCounter equals 1, otherwise render 'tarefas'
   const tasksCounterText = tasksCounter !== 1 ? 'tarefas' : 'tarefa'
 
   return (
