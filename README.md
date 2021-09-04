@@ -2,7 +2,8 @@
 
 Uma simples lista de tarefas
 
-####Features
+Features
+
 - Validação de tarefas repetidas
 - Validação de campo vazio  
 - Confirmação de exclusão
@@ -11,3 +12,6 @@ Uma simples lista de tarefas
 - Marcar e desmarcar tarefas com concluídas
 - Contador de tarefas
 
+Figma do Projeto
+
+- https://www.figma.com/file/NLGrhRmxCQM3an3iTE99qk/to.do-Ignite?node-id=1%3A131
