@@ -3,7 +3,8 @@
 Uma simples lista de tarefas
 
 ####Features
-- validação de tarefas repetidas
+- Validação de tarefas repetidas
+- Validação de campo vazio  
 - Confirmação de exclusão
 - Editar tarefa
 - Remover tarefas
