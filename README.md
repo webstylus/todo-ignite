@@ -3,7 +3,8 @@
 Uma simples lista de tarefas
 ![alt text](https://github.com/webstylus/todo-ignite/tree/main/src/assets/src/assets/images/cover.png?raw=true)
 
-### Features
+Features
+
 - Validação de tarefas repetidas
 - Validação de campo vazio  
 - Confirmação de exclusão
